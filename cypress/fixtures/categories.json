@@ -1,0 +1,18 @@
+{
+  "LaptopCategories": [
+    {
+        "categoryName": "Laptop računari",
+        "url": "/laptop-racunari"
+    },
+
+    {
+        "categoryName": "Oprema za laptop",
+        "url": "/oprema-za-laptop"
+    },
+
+    {
+        "categoryName": "Tableti i oprema",
+        "url": "/tableti-i-oprema"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# node.js
+
+node_modules/
+cypress/videos/
+mochawesome-report/
+cypress/results/
+mochawesome-report/

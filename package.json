@@ -1,0 +1,19 @@
+{
+  "name": "ct-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ct-shop": "cypress run --headed --no-exit --browser chrome --spec 'cypress/e2e/ct-shop.cy.js' "
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0",
+    "mochawesome": "^7.1.3"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3"
+  }
+}
